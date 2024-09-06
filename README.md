@@ -12,6 +12,6 @@ Note: All data is retrieved from Yahoo Finance
 
 # Replication
 - To run the project clone the repo
-- Create a conda virtual environment through the yml file `environment.yml` found in the main directory of the project
-- The yaml file can be used to create a virtual environment with the following command: `conda env create -f environment.yml`
+- Create a pip virtual environment through the file `requirements.txt` found in the main directory of the project
+- Next use pip install -r requirements.txt to install all the necessary packages
 
