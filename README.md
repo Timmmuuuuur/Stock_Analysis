@@ -2,7 +2,7 @@
 Outline of different functional code aspects
 - Analysis and visualization of stock market data
 - Different methods of risk analysis in stocks
-- Stocks analyzed : [AAPL, AMZN, GOOG, INTC, MSFT]
+- Stocks analyzed : [AAPL, AMZN, GOOG, META, MSFT]
 - Plot daily return averages
 - Computation of moving averages in 10, 20 and 50 day period
 - Compute the correlation between the daily return of these different stocks
