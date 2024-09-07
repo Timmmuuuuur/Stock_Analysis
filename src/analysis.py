@@ -11,8 +11,6 @@ import seaborn as sns
 
 pd.options.mode.chained_assignment = None  # default='warn'
 
-# link: https://medium.com/analytics-vidhya/python-for-stock-analysis-fcff252ca559
-
 def get_basic_data(stock_df):
     # get basic stock infor by analyzing df using pandas
     print(f"{stock_df} stock information:")
