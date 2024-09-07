@@ -1,6 +1,6 @@
 # Stock Analysis
 Outline of different functional code aspects
-- Different methods of risk analysis in stocks
+- Various methods of risk analysis in stocks
 - Stocks analyzed : [AAPL, AMZN, GOOG, META, MSFT]
 - Plot daily return averages
 - Analysis and visualization of stock market data
